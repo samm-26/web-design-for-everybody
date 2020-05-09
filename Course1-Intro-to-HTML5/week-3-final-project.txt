@@ -1,0 +1,39 @@
+<!Doctype html>
+<head>
+	<title>Project</title>
+</head>
+<body>
+	<h1>Samantha Mascarenhas</h1>
+<nav>
+	<a href = "one.html">One</a>
+	<a href= "two.html">Two</a>
+	<a href ="three.html">Three</a>
+	<a href="yourchoice.html">Four</a>
+</nav>
+<section>
+	<h2>Favourite Foods</h2>
+	<ul>
+		<li>Chocolates</li>
+		<li>pizza</li>
+		<li>chicken</li>
+		<li>Chocolate cake</li>
+	</ul>
+</section>
+<section>
+	<h2>Achievements</h2>
+	Progress in this course(100%)<meter value = "1">100%</meter><br>
+	Progress in the Specialization capstone(20%)<meter value = "0.2">20%</meter> <br>
+	Progress in life goals (67%)<meter value="0.67">67%</meter><br>
+</section>
+<section>
+	<h2>More About Me</h2>
+	<details>
+		<summary>My Childhood</summary>
+		<p>I grew up in Mumbai and that was best part of my childhood</p>
+	</details>
+</section>
+<footer>
+	<img src="http://www.intro-webdesign.com/images/newlogo.png">This page was created by Samantha and Colleen van Lent. To learn more about web design , visit <a href="https://www.coursera.org/learn/html/supplement/Lnyj2/final-project-description">Intro To Web Design</a>
+			
+</body>
+</html>

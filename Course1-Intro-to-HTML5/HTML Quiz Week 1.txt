@@ -1,0 +1,128 @@
+1.What does HTML stand for?
+
+ans : Hyper Text Markup Language
+
+2.Unlike earlier versions of HTML, HTML5 produces pages that look the same across all browsers.
+
+ans : False
+
+3.FTP stands for
+
+ans : File Transfer Protocol
+
+4.HTTP stands for
+
+ans : Hyper Text Transfer Protocol
+
+5.Which of the following is part of a URL?
+
+ans : protocol
+
+6.The Internet is a type of
+
+ans : Wide Area Network
+
+7.What is the Request/Response Cycle?
+
+ans : The process that happens when a client requests a page and a server responds with the appropriate files
+
+8.A ________________________ is a computer that is in charge of handling resource requests from multiple computers.
+
+ans : server
+
+9.Which of the following is an example of a top-level domain?
+
+ans : .com
+
+10.The Domain Name Service looks up the domain and returns the
+
+ans : IP address
+
+11.Which organization is responsible for assigning top-level domain names?
+
+ans : Internet Corporation for Assigned Numbers and Names (ICANN)
+
+12.A single web page may require several iterations of the Request-Response Cycle.
+
+ans : True
+
+13.
+What does LAN stand for?
+
+ans : Local Area Network
+
+14.What does WAN stand for?
+
+ans : Wide Area Network
+
+15.Which is the correct file extension for a web page?
+
+ans : .html
+
+16.HTML uses _________ to annotate documents. This is a way of marking up the content to identify specific HTML elements.
+
+ans : tags
+
+17.Which of the following best explains the difference between syntax and semantics.
+
+ans : A browser may have trouble displaying a page if the syntax is incorrect.
+
+18.The first graphical browser was.... (please use one word answer)
+
+ans : Mosaic
+
+19.What are proprietary tags?
+
+ans : Tags that work only on certain browsers
+
+20.Which of these tags breaks the tenet of the separation of content and layout?
+
+ans : br
+
+21.Which of the following are browsers?
+
+ans : Chrome, Firefox, Safari
+
+22.W3C stands for
+
+ans : World Wide Web Consortium
+
+23.A basic functionality of browsers is to translate HTML documents into viewable webpages.
+
+ans : True
+
+24.Which version of HTML introduced semantic tags?
+
+ans : HTML 5
+
+25.The predecessor of the internet was
+
+ans : Arpanet
+
+26.URL stands for
+
+ans : Uniform Resource Locator
+
+27.
+_____________ is used to create rules about the color, font, and layout of our pages
+
+ans : CSS
+
+28.
+CSS1 was introduced for public use in
+
+ans : 1996
+
+29.What editor are you using?
+
+ans : Notepad
+
+30.What browser(s) are you using?
+
+ans : Google Chrome, Microsoft Edge
+
+
+
+
+
+

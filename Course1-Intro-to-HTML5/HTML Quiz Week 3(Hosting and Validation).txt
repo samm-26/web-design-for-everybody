@@ -1,0 +1,38 @@
+1.What validation error will this code produce?
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>	
+   		<meta charset="UTF-8">
+   		<title>Testing</title>
+	</head>
+	<body>
+  	 <p>		
+    		 <h2>Validate me!</h2>	
+ 	  </p>
+	</body>
+	</html>
+
+ans : No p element in scope but a p end tag seen..
+
+2.What validation error will this code produce?
+	<!DOCTYPE html>
+	<html lang="en">
+	<head></head>
+	<body>	
+   		<p> Validate me! </p>
+	</body>
+	</html>
+
+ans : Element head is missing a required instance of child element title.
+
+3.To access your cPanel account, you need ...
+
+ans : a username and password from your hosting server
+
+4.To publish your site online you need
+
+ans : a domain name and hosting service
+
+5.To use ftp software to transfer files you will typically need to know your site's ftp address or ip address.
+
+ans : True
